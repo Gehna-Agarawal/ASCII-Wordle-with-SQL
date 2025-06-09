@@ -23,8 +23,8 @@ class Database:
             connection = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="Gehna@100",
-                database="wordle_game"
+                password="your password", # Add your password
+                database="your db" # Add your db name
             )
             if connection.is_connected():
                 print("Connected to MySQL database.")
