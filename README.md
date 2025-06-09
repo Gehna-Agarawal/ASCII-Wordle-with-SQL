@@ -104,4 +104,5 @@ python wordle.py
 ---
 ## 🙋‍♀️ Author
 Made with 💚 by Gehna Agarawal
+
 Feel free to fork this project
